@@ -1,3 +1,4 @@
 streamlit>=1.10.0
 requests>=2.25.0
 langchain>=0.0.142
+python-dotenv
